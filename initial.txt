@@ -1,1 +1,2 @@
 this is my first git practical.
+I am learning remote repository operations using GitHub.
